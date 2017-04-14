@@ -1,6 +1,6 @@
 {
   "name": "apollo-upload-server",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Enhances Apollo GraphQL Server for intuitive file uploads via GraphQL mutations.",
   "license": "MIT",
   "author": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaydenseric/apollo-upload-server.git"
+    "url": "https://github.com/TimmersThomas/apollo-upload-server.git"
   },
   "homepage": "https://github.com/jaydenseric/apollo-upload-server#readme",
   "bugs": "https://github.com/jaydenseric/apollo-upload-server/issues",
